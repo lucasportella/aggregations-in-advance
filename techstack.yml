@@ -1,0 +1,31 @@
+repo_name: lucasportella/aggregations-in-advance
+report_id: 2080bdc143c0f045d2eb3d7af6f0926f
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-14T15:13:34+00:00'
+requested_by: lucasportella
+provider: github
+branch: lfp
+detected_tools_count: 2
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/lucasportella/aggregations-in-advance
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lucasportella/aggregations-in-advance
+  detection_source: Repo Metadata
